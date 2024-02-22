@@ -904,7 +904,7 @@ tfoot{
     select the image in the pseudo-elements section using the ID, child/descendant, and tag name selectors
 */
 /* ----- */
-{
+#pseudo-els img{
     width: 200px;
     height: 200px;
     margin: 0 auto;
@@ -922,7 +922,7 @@ tfoot{
     select the footer element by tag name
 */
 /* ----- */
-{
+footer{
     margin: 2rem auto 0 auto;
     text-align: center;
 }
